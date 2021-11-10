@@ -3,7 +3,7 @@
 - Plugin Name: Announcement User
 - Plugin URI: http://johnmark.me/
 - Date; November 11, 2021
-- Description: This plugin is using shortcode method to display announcemet to all users and for specific user
+- Description: This plugin is using shortcode method to display announcement to all users and for specific user
 - Author: John Mark Causing
 - Author URI:  http://johnmark.me/
 
